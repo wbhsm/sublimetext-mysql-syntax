@@ -24,3 +24,4 @@ Install this plugin and open any .sql file, choose
 The MIT License (MIT)
 https://opensource.org/licenses/MIT
 
+#1
